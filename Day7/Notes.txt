@@ -1,0 +1,18 @@
+>If Head is NULL then there is no node in LinkedList
+>If we have multiple nodes but head is NULL then LinkedList is Empty
+_________________________________________________________________________
+--------------------------------------------------------------------------
+
+			For head there are 2 Approches
+				    |
+			--------------------------
+			|			|
+		 passing through function      Declaring Globally(It is correct Way)
+__________________________________________________________________________
+--------------------------------------------------------------------------
+
+Call By Reference -  We Pass Address to function if we make some changes then It happens to original Variable 
+
+Call By Value - Only changes happens in locally not in original Variable
+__________________________________________________________________________
+--------------------------------------------------------------------------
